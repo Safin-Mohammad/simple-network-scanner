@@ -16,8 +16,6 @@ git clone https://github.com/Safin-Mohammad/simple-network-scanner
 ```
 * Then run the network_scanner.py file:
 ```
-python network_scanner.py
+python arp_scanner.py
 ```
 
-## Result Image
-![001](https://user-images.githubusercontent.com/55107082/129308134-247cd291-93d2-4056-9ff8-ad7da3e958c0.png)
