@@ -13,8 +13,9 @@ scapy>=2.4.4
 * First:
 ```
 git clone https://github.com/Safin-Mohammad/simple-network-scanner
+cd simple-network-scanner
 ```
-* Then run the network_scanner.py file:
+* Then run the arp_scanner.py file:
 ```
 python arp_scanner.py
 ```
