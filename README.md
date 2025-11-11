@@ -9,7 +9,7 @@ This is a very basic network scanner built using python.
 scapy>=2.4.4
 ```
 
-## How to use?
+## Usage:
 * First:
 ```
 git clone https://github.com/Safin-Mohammad/simple-network-scanner
